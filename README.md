@@ -1,6 +1,6 @@
 # Backend Developer Exam
 
-Create a todo app consist of  `title` and  `is finished`. The other functionalities of the application are the following:
+Create a TODO API consist of  `title` and  `is finished`. The other functionalities of the application are the following:
 
 -   Can create `todo`
 -   Can update specific `todo`
